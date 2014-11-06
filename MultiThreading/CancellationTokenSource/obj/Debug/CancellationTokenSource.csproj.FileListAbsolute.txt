@@ -1,0 +1,7 @@
+F:\Projects\StudyHard\CancellationTokenSource\bin\Debug\CancellationTokenSource.exe.config
+F:\Projects\StudyHard\CancellationTokenSource\bin\Debug\CancellationTokenSource.exe
+F:\Projects\StudyHard\CancellationTokenSource\bin\Debug\CancellationTokenSource.pdb
+F:\Projects\StudyHard\CancellationTokenSource\obj\Debug\CancellationTokenSource.csprojResolveAssemblyReference.cache
+F:\Projects\StudyHard\CancellationTokenSource\obj\Debug\CancellationTokenSource.exe
+F:\Projects\StudyHard\CancellationTokenSource\obj\Debug\CancellationTokenSource.pdb
+F:\Projects\StudyHard\CancellationTokenSource\bin\Debug\协作式取消.exe.config
