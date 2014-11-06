@@ -1,0 +1,5 @@
+F:\Projects\Com.ArHat.EF\Com.ArHat.DAL\bin\Debug\Com.ArHat.DAL.dll
+F:\Projects\Com.ArHat.EF\Com.ArHat.DAL\bin\Debug\Com.ArHat.DAL.pdb
+F:\Projects\Com.ArHat.EF\Com.ArHat.DAL\obj\Debug\Com.ArHat.DAL.csprojResolveAssemblyReference.cache
+F:\Projects\Com.ArHat.EF\Com.ArHat.DAL\obj\Debug\Com.ArHat.DAL.dll
+F:\Projects\Com.ArHat.EF\Com.ArHat.DAL\obj\Debug\Com.ArHat.DAL.pdb

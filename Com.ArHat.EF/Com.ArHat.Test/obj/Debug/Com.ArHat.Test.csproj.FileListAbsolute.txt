@@ -1,0 +1,13 @@
+F:\Projects\Com.ArHat.EF\Com.ArHat.Test\bin\Debug\Com.ArHat.Test.exe.config
+F:\Projects\Com.ArHat.EF\Com.ArHat.Test\bin\Debug\Com.ArHat.Test.exe
+F:\Projects\Com.ArHat.EF\Com.ArHat.Test\bin\Debug\Com.ArHat.Test.pdb
+F:\Projects\Com.ArHat.EF\Com.ArHat.Test\bin\Debug\Com.ArHat.BLL.dll
+F:\Projects\Com.ArHat.EF\Com.ArHat.Test\bin\Debug\Com.ArHat.Model.dll
+F:\Projects\Com.ArHat.EF\Com.ArHat.Test\bin\Debug\EntityFramework.dll
+F:\Projects\Com.ArHat.EF\Com.ArHat.Test\bin\Debug\Com.ArHat.BLL.pdb
+F:\Projects\Com.ArHat.EF\Com.ArHat.Test\bin\Debug\Com.ArHat.Model.pdb
+F:\Projects\Com.ArHat.EF\Com.ArHat.Test\bin\Debug\EntityFramework.xml
+F:\Projects\Com.ArHat.EF\Com.ArHat.Test\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\Projects\Com.ArHat.EF\Com.ArHat.Test\obj\Debug\Com.ArHat.Test.csprojResolveAssemblyReference.cache
+F:\Projects\Com.ArHat.EF\Com.ArHat.Test\obj\Debug\Com.ArHat.Test.exe
+F:\Projects\Com.ArHat.EF\Com.ArHat.Test\obj\Debug\Com.ArHat.Test.pdb

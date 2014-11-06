@@ -1,0 +1,12 @@
+F:\Projects\Com.ArHat.EF\Com.ArHat.BLL\bin\Debug\Com.ArHat.BLL.dll
+F:\Projects\Com.ArHat.EF\Com.ArHat.BLL\bin\Debug\Com.ArHat.BLL.pdb
+F:\Projects\Com.ArHat.EF\Com.ArHat.BLL\bin\Debug\Com.ArHat.DAL.dll
+F:\Projects\Com.ArHat.EF\Com.ArHat.BLL\bin\Debug\Com.ArHat.Model.dll
+F:\Projects\Com.ArHat.EF\Com.ArHat.BLL\bin\Debug\EntityFramework.dll
+F:\Projects\Com.ArHat.EF\Com.ArHat.BLL\bin\Debug\Com.ArHat.DAL.pdb
+F:\Projects\Com.ArHat.EF\Com.ArHat.BLL\bin\Debug\Com.ArHat.Model.pdb
+F:\Projects\Com.ArHat.EF\Com.ArHat.BLL\bin\Debug\EntityFramework.xml
+F:\Projects\Com.ArHat.EF\Com.ArHat.BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\Projects\Com.ArHat.EF\Com.ArHat.BLL\obj\Debug\Com.ArHat.BLL.csprojResolveAssemblyReference.cache
+F:\Projects\Com.ArHat.EF\Com.ArHat.BLL\obj\Debug\Com.ArHat.BLL.dll
+F:\Projects\Com.ArHat.EF\Com.ArHat.BLL\obj\Debug\Com.ArHat.BLL.pdb

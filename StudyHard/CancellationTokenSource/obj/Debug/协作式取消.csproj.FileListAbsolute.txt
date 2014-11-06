@@ -1,0 +1,6 @@
+F:\Projects\StudyHard\CancellationTokenSource\bin\Debug\协作式取消.exe.config
+F:\Projects\StudyHard\CancellationTokenSource\bin\Debug\协作式取消.exe
+F:\Projects\StudyHard\CancellationTokenSource\bin\Debug\协作式取消.pdb
+F:\Projects\StudyHard\CancellationTokenSource\obj\Debug\协作式取消.csprojResolveAssemblyReference.cache
+F:\Projects\StudyHard\CancellationTokenSource\obj\Debug\协作式取消.exe
+F:\Projects\StudyHard\CancellationTokenSource\obj\Debug\协作式取消.pdb

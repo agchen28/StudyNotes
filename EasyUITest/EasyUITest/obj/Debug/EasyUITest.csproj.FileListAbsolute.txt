@@ -1,0 +1,5 @@
+F:\Projects\EasyUITest\EasyUITest\bin\EasyUITest.dll
+F:\Projects\EasyUITest\EasyUITest\bin\EasyUITest.pdb
+F:\Projects\EasyUITest\EasyUITest\obj\Debug\EasyUITest.csprojResolveAssemblyReference.cache
+F:\Projects\EasyUITest\EasyUITest\obj\Debug\EasyUITest.dll
+F:\Projects\EasyUITest\EasyUITest\obj\Debug\EasyUITest.pdb
