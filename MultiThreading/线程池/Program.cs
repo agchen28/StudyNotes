@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading;
-123
+
 namespace 线程池
 {
     class Program
