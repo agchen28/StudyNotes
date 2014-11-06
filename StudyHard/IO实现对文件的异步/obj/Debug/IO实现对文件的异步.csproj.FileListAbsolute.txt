@@ -1,6 +1,0 @@
-F:\Projects\StudyHard\IO实现对文件的异步\bin\Debug\IO实现对文件的异步.exe.config
-F:\Projects\StudyHard\IO实现对文件的异步\bin\Debug\IO实现对文件的异步.exe
-F:\Projects\StudyHard\IO实现对文件的异步\bin\Debug\IO实现对文件的异步.pdb
-F:\Projects\StudyHard\IO实现对文件的异步\obj\Debug\IO实现对文件的异步.csprojResolveAssemblyReference.cache
-F:\Projects\StudyHard\IO实现对文件的异步\obj\Debug\IO实现对文件的异步.exe
-F:\Projects\StudyHard\IO实现对文件的异步\obj\Debug\IO实现对文件的异步.pdb

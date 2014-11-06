@@ -1,6 +1,0 @@
-F:\Projects\StudyHard\线程池\obj\Debug\线程池.csprojResolveAssemblyReference.cache
-F:\Projects\StudyHard\线程池\bin\Debug\线程池.exe.config
-F:\Projects\StudyHard\线程池\bin\Debug\线程池.exe
-F:\Projects\StudyHard\线程池\bin\Debug\线程池.pdb
-F:\Projects\StudyHard\线程池\obj\Debug\线程池.exe
-F:\Projects\StudyHard\线程池\obj\Debug\线程池.pdb

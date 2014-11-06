@@ -1,5 +1,0 @@
-F:\Projects\StudyHard\Monitor实现线程同步\bin\Debug\Monitor实现线程同步.exe.config
-F:\Projects\StudyHard\Monitor实现线程同步\bin\Debug\Monitor实现线程同步.exe
-F:\Projects\StudyHard\Monitor实现线程同步\bin\Debug\Monitor实现线程同步.pdb
-F:\Projects\StudyHard\Monitor实现线程同步\obj\Debug\Monitor实现线程同步.exe
-F:\Projects\StudyHard\Monitor实现线程同步\obj\Debug\Monitor实现线程同步.pdb

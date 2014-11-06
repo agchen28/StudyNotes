@@ -1,6 +1,0 @@
-F:\Projects\StudyHard\StudyHard\bin\Debug\StudyHard.exe.config
-F:\Projects\StudyHard\StudyHard\bin\Debug\StudyHard.exe
-F:\Projects\StudyHard\StudyHard\bin\Debug\StudyHard.pdb
-F:\Projects\StudyHard\StudyHard\obj\Debug\StudyHard.csprojResolveAssemblyReference.cache
-F:\Projects\StudyHard\StudyHard\obj\Debug\StudyHard.exe
-F:\Projects\StudyHard\StudyHard\obj\Debug\StudyHard.pdb

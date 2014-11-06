@@ -1,6 +1,0 @@
-F:\Projects\StudyHard\StudyHard\bin\Debug\线程基础.exe.config
-F:\Projects\StudyHard\StudyHard\bin\Debug\线程基础.exe
-F:\Projects\StudyHard\StudyHard\bin\Debug\线程基础.pdb
-F:\Projects\StudyHard\StudyHard\obj\Debug\线程基础.csprojResolveAssemblyReference.cache
-F:\Projects\StudyHard\StudyHard\obj\Debug\线程基础.exe
-F:\Projects\StudyHard\StudyHard\obj\Debug\线程基础.pdb
