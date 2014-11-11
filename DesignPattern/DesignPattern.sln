@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01单例模式", "单例模式\01单例模式.csproj", "{43F8982E-6D55-438E-A780-CB6526B0CEB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02简单工厂模式", "简单工厂模式\02简单工厂模式.csproj", "{60E374B4-A92E-4AA1-98DD-2809DBEC4F4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03工厂方法模式", "工厂方法模式\03工厂方法模式.csproj", "{ED5E162B-487B-476B-8D4B-128890454920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04抽象工厂模式", "04抽象工厂模式\04抽象工厂模式.csproj", "{DEA4D31B-95FF-4D75-8A5D-C3B5644FA628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05建造者模式", "建造者模式\05建造者模式.csproj", "{EC748408-429C-4ECC-A052-58E12EB0B372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F8982E-6D55-438E-A780-CB6526B0CEB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F8982E-6D55-438E-A780-CB6526B0CEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F8982E-6D55-438E-A780-CB6526B0CEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F8982E-6D55-438E-A780-CB6526B0CEB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E374B4-A92E-4AA1-98DD-2809DBEC4F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E374B4-A92E-4AA1-98DD-2809DBEC4F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E374B4-A92E-4AA1-98DD-2809DBEC4F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E374B4-A92E-4AA1-98DD-2809DBEC4F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5E162B-487B-476B-8D4B-128890454920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5E162B-487B-476B-8D4B-128890454920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5E162B-487B-476B-8D4B-128890454920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5E162B-487B-476B-8D4B-128890454920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA4D31B-95FF-4D75-8A5D-C3B5644FA628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA4D31B-95FF-4D75-8A5D-C3B5644FA628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA4D31B-95FF-4D75-8A5D-C3B5644FA628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA4D31B-95FF-4D75-8A5D-C3B5644FA628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC748408-429C-4ECC-A052-58E12EB0B372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC748408-429C-4ECC-A052-58E12EB0B372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC748408-429C-4ECC-A052-58E12EB0B372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC748408-429C-4ECC-A052-58E12EB0B372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

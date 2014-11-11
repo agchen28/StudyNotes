@@ -1,0 +1,6 @@
+F:\Projects\DesignPattern\简单工厂模式\bin\Debug\简单工厂模式.exe.config
+F:\Projects\DesignPattern\简单工厂模式\bin\Debug\简单工厂模式.exe
+F:\Projects\DesignPattern\简单工厂模式\bin\Debug\简单工厂模式.pdb
+F:\Projects\DesignPattern\简单工厂模式\obj\Debug\02简单工厂模式.csprojResolveAssemblyReference.cache
+F:\Projects\DesignPattern\简单工厂模式\obj\Debug\简单工厂模式.exe
+F:\Projects\DesignPattern\简单工厂模式\obj\Debug\简单工厂模式.pdb

@@ -1,0 +1,6 @@
+F:\Projects\DesignPattern\单例模式\bin\Debug\单例模式.exe.config
+F:\Projects\DesignPattern\单例模式\bin\Debug\单例模式.exe
+F:\Projects\DesignPattern\单例模式\bin\Debug\单例模式.pdb
+F:\Projects\DesignPattern\单例模式\obj\Debug\01单例模式.csprojResolveAssemblyReference.cache
+F:\Projects\DesignPattern\单例模式\obj\Debug\单例模式.exe
+F:\Projects\DesignPattern\单例模式\obj\Debug\单例模式.pdb

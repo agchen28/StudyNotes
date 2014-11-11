@@ -1,0 +1,5 @@
+F:\Projects\DesignPattern\建造者模式\bin\Debug\建造者模式.exe.config
+F:\Projects\DesignPattern\建造者模式\bin\Debug\建造者模式.exe
+F:\Projects\DesignPattern\建造者模式\bin\Debug\建造者模式.pdb
+F:\Projects\DesignPattern\建造者模式\obj\Debug\建造者模式.exe
+F:\Projects\DesignPattern\建造者模式\obj\Debug\建造者模式.pdb

@@ -1,0 +1,1 @@
+F:\Projects\DesignPattern\单例模式\bin\Debug\单例模式.exe.config
