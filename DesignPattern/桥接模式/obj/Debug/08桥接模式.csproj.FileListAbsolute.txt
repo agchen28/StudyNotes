@@ -1,0 +1,6 @@
+F:\Projects\DesignPattern\桥接模式\bin\Debug\桥接模式.exe.config
+F:\Projects\DesignPattern\桥接模式\bin\Debug\桥接模式.exe
+F:\Projects\DesignPattern\桥接模式\bin\Debug\桥接模式.pdb
+F:\Projects\DesignPattern\桥接模式\obj\Debug\08桥接模式.csprojResolveAssemblyReference.cache
+F:\Projects\DesignPattern\桥接模式\obj\Debug\桥接模式.exe
+F:\Projects\DesignPattern\桥接模式\obj\Debug\桥接模式.pdb

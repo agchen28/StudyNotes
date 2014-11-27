@@ -1,0 +1,6 @@
+F:\Projects\DesignPattern\适配器模式\bin\Debug\适配器模式.exe.config
+F:\Projects\DesignPattern\适配器模式\bin\Debug\适配器模式.exe
+F:\Projects\DesignPattern\适配器模式\bin\Debug\适配器模式.pdb
+F:\Projects\DesignPattern\适配器模式\obj\Debug\07适配器模式.csprojResolveAssemblyReference.cache
+F:\Projects\DesignPattern\适配器模式\obj\Debug\适配器模式.exe
+F:\Projects\DesignPattern\适配器模式\obj\Debug\适配器模式.pdb
