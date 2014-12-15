@@ -1,0 +1,6 @@
+F:\Projects\BaseofDotNet\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe.config
+F:\Projects\BaseofDotNet\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe
+F:\Projects\BaseofDotNet\AsyncAndAwait\bin\Debug\AsyncAndAwait.pdb
+F:\Projects\BaseofDotNet\AsyncAndAwait\obj\Debug\AsyncAndAwait.csprojResolveAssemblyReference.cache
+F:\Projects\BaseofDotNet\AsyncAndAwait\obj\Debug\AsyncAndAwait.exe
+F:\Projects\BaseofDotNet\AsyncAndAwait\obj\Debug\AsyncAndAwait.pdb
